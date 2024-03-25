@@ -1,5 +1,5 @@
 
-print("soy , esta es mi funcion suma")
+print("soy la coma, esta es mi funcion suma")
 
 def suma(*num):
     return sum(num)
