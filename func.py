@@ -1,3 +1,6 @@
+
+print("soy lucas y esta es mi funcion suma")
+
 def suma(*num):
     return sum(num)
 
