@@ -1,5 +1,5 @@
 
-print("soy PEPE jimenez y esta es mi funcion suma")
+print("soy y esta es mi funcion suma")
 
 def suma(*num):
     return sum(num)
